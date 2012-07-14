@@ -12,7 +12,7 @@ Synchronous Usage
 
 3. Browse to your TARGET -> Build Phases -> Compile Sources. Add the Compiler Flag -fno-objc-arc to JSONKit.m as JSONKit does not support ARC.
 
-4. Import "ReceiptKit.h" in in your SKPaymentTransactionObserver class.
+4. Import "ReceiptKit.h" in your SKPaymentTransactionObserver class.
 
 5. When you get the paymentQueue:updatedTransactions: callback from StoreKit, send the SKPaymentTransaction to ReceiptKit like this for synchronous operation (easiest but will slow down you app):
 
