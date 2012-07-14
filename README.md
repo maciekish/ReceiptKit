@@ -6,7 +6,7 @@ ReceiptKit provides an easy way to verify iOS receipts without having to involve
 Synchronous Usage
 -----------------
 
-1. Get the project using git as JSONKit is configured as a submodule.
+1. Get the project using git as JSONKit is configured as a submodule, or download JSONKit manually.
 
 2. Copy the subfolder libReceiptKit into your Xcode project.
 
