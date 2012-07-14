@@ -1,0 +1,3 @@
+[submodule "ReceiptKit/ReceiptKit/ReceiptKit/lib/JSONKit"]
+	path = ReceiptKit/ReceiptKit/ReceiptKit/lib/JSONKit
+	url = https://github.com/maciekish/JSONKit.git
