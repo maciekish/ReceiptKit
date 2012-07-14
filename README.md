@@ -41,8 +41,6 @@ Details
 
 * ReceiptKit has been tested on iOS 5 and iOS 6 but should work on iOS 4 as well.
 
-* This is just an easier way for the masses to check receipts, and a direct response to all the IAP hacks available. This is not the safest method of checking receipts, and you should use your own server if you want to be even safer.
-
 License
 -------
 
